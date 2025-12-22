@@ -17,7 +17,7 @@ By leveraging the **Gemma-2-2b-it** Large Language Model via Hugging Face's Clou
 * **Natural Language Interaction:** Update parameters using intuitive commands like *"set inclination to 78.5"* or *"T2 is 0.6370"*.
 * **Structural Mapping:** Uses a high-fidelity coordinate matrix derived from the **Wilson & Van Hamme (2016)** documentation to ensure zero-error targeting.
 * **Scientific Formatting:** Automatically preserves WD-specific double precision notation (e.g., `D+00` instead of `E+00`).
-* **Comprehensive Alias System:** Recognizes diverse terminology (e.g., `Omega1` for `POT1`, `Mass Ratio` for `Q`, `Smearing` for `DELPH`).
+* **Comprehensive Alias System:** Recognizes diverse terminology (e.g., `Omega1` for `POT1`, `Mass Ratio` for `q`).
 
 ---
 
