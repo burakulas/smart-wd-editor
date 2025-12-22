@@ -25,7 +25,7 @@ By leveraging the **Gemma-2-2b-it** Large Language Model via Hugging Face's Clou
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/burakulas/smart-wd-editor.git](https://github.com/burakulas/smart-wd-editor.git)
+   git clone https://github.com/burakulas/smart-wd-editor.git
    cd smart-wd-editor
     ```
 
