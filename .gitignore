@@ -1,0 +1,21 @@
+# Ignore the actual data files created during research
+wd_input_new.dat
+
+# Ignore any other WD-specific output or scratch files
+*.active
+*.out
+*.elc
+
+# Never upload your Hugging Face token if stored in a file
+.env
+.python_history
+
+# Ignore local compiled files and cache folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system-specific metadata files
+.DS_Store
+Thumbs.db
