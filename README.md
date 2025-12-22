@@ -23,10 +23,10 @@ By leveraging the **Gemma-2-2b-it** Large Language Model via Hugging Face's Clou
 
 ## Installation & Setup
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/yourusername/smart-wd-editor.git](https://github.com/yourusername/smart-wd-editor.git)
-    cd smart-wd-editor
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/burakulas/smart-wd-editor.git](https://github.com/burakulas/smart-wd-editor.git)
+   cd smart-wd-editor
     ```
 
 2.  **Install Dependencies:**
@@ -68,12 +68,16 @@ By leveraging the **Gemma-2-2b-it** Large Language Model via Hugging Face's Clou
 
 The editor currently supports mapping for the following core WD parameters. The underlying mapping logic is designed to be easily extensible. If a specific WD parameter is not listed, it can be added to the internal coordinate matrix in `swd_editor.py`.
 
-
 ---
 
 ## Acknowledgments
 
 This project was developed with the technical assistance of Gemini, AI-based development tool. 
+
+## References
+
+* **Wilson, R. E. and Van Hamme, W. (2015).** [*Computing Binary Star Observables*](https://faculty.fiu.edu/~vanhamme/wdfiles/ebdoc2015-bf.pdf).
+* **Wilson, R. E., Devinney, E. J., Van Hamme, W. (2004).** *WD: Wilson-Devinney binary star modeling*. [ASCL:2004.004](https://ascl.net/2004.004).
 
 ## License
 
