@@ -1,4 +1,4 @@
-# Smart-WD-Editor: NLP-Driven Wilson-Devinney Input Manager
+# Smart-WD-Editor: LLM-Powered Wilson-Devinney Input Manager
 
 **Smart-WD-Editor** is a Python-based utility designed to modernize the workflow of binary star modeling. It acts as an intelligent bridge between the researcher and the strictly formatted **Wilson-Devinney (WD)** DC input files. 
 
