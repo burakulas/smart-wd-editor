@@ -72,7 +72,7 @@ The editor currently supports mapping for the following core WD parameters. The 
 
 ## Acknowledgments
 
-This project was developed with the technical assistance of Gemini, AI-based development tool. 
+This project was developed with the technical assistance of [Gemini](https://gemini.google.com/app), AI-based development tool. 
 
 ## References
 
