@@ -1,8 +1,8 @@
-# Smart WD Editor: LLM-Powered Wilson-Devinney Input Manager
+# Smart WD Editor: LM-Powered Wilson-Devinney Input Manager
 
 **Smart WD Editor** is a Python-based utility designed to modernize the workflow of binary star modeling. It acts as an intelligent bridge between the researcher and the strictly formatted **Wilson-Devinney (WD)** DC input files. 
 
-By leveraging the **Gemma-2-2b-it** Large Language Model via Hugging Face's Cloud Inference, the editor translates natural language commands into surgical, coordinate-accurate updates, preserving the delicate Fortran-style structure required by the WD code.
+By leveraging the lightweight **Gemma-2-2b-it** open language model via Hugging Face's Cloud Inference, the editor translates natural language commands into surgical, coordinate-accurate updates, preserving the delicate Fortran-style structure required by the WD code.
 
 ---
 
